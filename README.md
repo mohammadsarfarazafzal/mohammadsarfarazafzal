@@ -1,6 +1,4 @@
-### Hi there 👋
-<br>
-## I'm Sarfaraz
+### Hi there 👋 I'm Sarfaraz
 <br>
 - 🌱 I’m currently learning C++<br>
 <br>
