@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<br>
 <!--
 **MOHAMMAD-SARFARAZ-AFZAL/MOHAMMAD-SARFARAZ-AFZAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm Sarfaraz
+<br>
+- 🌱 I’m currently learning C++<br>
+<br>
+- 🤔 I’m looking for help with <a href="https://github.com/MOHAMMAD-SARFARAZ-AFZAL/halalify.git">Halalify</a>
+<br>
+- 📫 How to reach me: <a href="https://mohammadsarfarazafzal.onrender.com">Portfolio</a>
+<br>
+- ⚡ Fun fact: I love playing video games.
