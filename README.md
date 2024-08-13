@@ -6,4 +6,4 @@
 <br>
 - 🔭 I’m currently working on <a href="https://github.com/MOHAMMAD-SARFARAZ-AFZAL/halalify.git">Halalify</a>
 <br>
-- ⚡ Fun fact: I love playing video games.
+- ⚡ Fun fact: I love playing video games and watching Marvel stuffs.
