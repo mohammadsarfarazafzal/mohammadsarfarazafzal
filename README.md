@@ -1,4 +1,4 @@
-![Header](./profile-header.gif)
+![Header](./header.gif)
 
 
 ## 🌐 Socials:
